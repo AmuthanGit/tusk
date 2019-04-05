@@ -2,3 +2,6 @@ Hello World
 Java
 System.out.println("Hello World");
 .Net
+
+Python
+print("Hello World")
